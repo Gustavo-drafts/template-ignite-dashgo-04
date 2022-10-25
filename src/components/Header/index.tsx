@@ -23,7 +23,7 @@ export function Header() {
     >
 
       <Logo />
-      <SearchBox />
+      {isWideScreen && <SearchBox />}
 
       <Flex align='center' ml='auto'>
 
