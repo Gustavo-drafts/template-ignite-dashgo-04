@@ -19,7 +19,7 @@
 - [x] Criar Components de Users | List
 - [x] Criar página User | Form
 - [x] Configurar responsividade
-- [] Configurar Formulário de criação de usuários
+- [ ] Configurar Formulário de criação de usuários
 
 #
 
