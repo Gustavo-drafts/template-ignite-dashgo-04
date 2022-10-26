@@ -19,7 +19,9 @@
 - [x] Criar Components de Users | List
 - [x] Criar página User | Form
 - [x] Configurar responsividade
-- [] Configurar Formulário de criação de usuários
+- [ ] Formulário de Login de usuários com validação Yup
+- [ ] Formulário de criação de usuários
+- [ ] Validação de Formulário usando Yup
 
 #
 
