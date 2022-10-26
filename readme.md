@@ -12,7 +12,6 @@
 
 ### has not yet reached the end of its tasks:
 
-<<<<<<< HEAD
 - [x] Export layout from figma application
 - [x] Stylize using ChakraUi
 - [x] Create login page
@@ -26,19 +25,6 @@
 - [ ] User Login Form with Yup validation
 - [ ] User creation form
 - [ ] Form Validation using Yup
-=======
-- [x] Exportar layout da aplicação do figma
-- [x] Estilizar usando ChakraUi
-- [x] Criar página Sign-in
-- [x] Criar Components de Sign-in
-- [x] Criar página Dashboard
-- [x] Criar Components de Dashboard
-- [x] Criar página Users | List
-- [x] Criar Components de Users | List
-- [x] Criar página User | Form
-- [x] Configurar responsividade
-- [ ] Configurar Formulário de criação de usuários
->>>>>>> 958aadbe080ba1b9f3f904adac059d69ec2aaf04
 
 #
 
