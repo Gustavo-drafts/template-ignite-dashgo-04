@@ -1,45 +1,48 @@
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/gutoo01/template-ignite-dashgo-04/blob/main/readme.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/gutoo01/template-ignite-dashgo-04/blob/main/readme.pt-br.md)
+
 # **Dash.go**
 
 <img src="./dashgo-preview.png" alt="ignews">
 
-> Aplicação dashboard feita para gerenciar dados de usuários, servindo como boilerplate de CRM responsiva, escalável e adaptável as novas stacks Next.
+>  Application to manage user data, new stacks made, scalable and adaptable from CRM Next.
 
 #
 
-### O projeto ainda não chegou ao fim em suas tarefas:
+### has not yet reached the end of its tasks:
 
-- [x] Exportar layout da aplicação do figma
-- [x] Estilizar usando ChakraUi
-- [x] Criar página Sign-in
-- [x] Criar Components de Sign-in
-- [x] Criar página Dashboard
-- [x] Criar Components de Dashboard
-- [x] Criar página Users | List
-- [x] Criar Components de Users | List
-- [x] Criar página User | Form
-- [x] Configurar responsividade
-- [ ] Formulário de Login de usuários com validação Yup
-- [ ] Formulário de criação de usuários
-- [ ] Validação de Formulário usando Yup
+- [x] Export layout from figma application
+- [x] Stylize using ChakraUi
+- [x] Create login page
+- [x] Create Login Components
+- [x] Create Dashboard Page
+- [x] Create Dashboard Components
+- [x] Create Users page | List
+- [x] Create User Components | List
+- [x] Create User Page | Form
+- [x] Configure responsiveness
+- [ ] User Login Form with Yup validation
+- [ ] User creation form
+- [ ] Form Validation using Yup
 
 #
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Antes de começar, verifique os seguintes requisitos:
+Before starting, the following requirements:
 
-- Requer versões:  
+- Requires versions:  
 
 ```
-rodando com versões atualizadas
+running with updated versions
 ```
 
-## 🚀 Instalando **daashgo**
+## 🚀 Installing  **daashgo**
 
-Para instalar o **dashgo**, siga estas etapas:
+To install **dashgo**, follow these steps:
 
-Win, Linux e macOS:
+Win, Linux and macOS:
 
 ```
 npm i
@@ -47,7 +50,7 @@ or
 yarn
 ```
 
-to Run app:
+to run the application:
 
 ```
 npm run dev
@@ -57,15 +60,15 @@ yarn dev
 
 #
 
-## 🫱🏻‍🫲🏽 Instrutores
+## 🫱🏻‍🫲🏽 Instructors
 
-Agradeço às seguintes pessoas que contribuíram para este projeto:
+To the following people who went to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/diego3g.png" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://github.com/diego3g.png" width="100px;" alt="Photo by Iuri Silva on GitHub"/><br>
         <sub>
           <b>Diego Fernandes</b>
         </sub>
@@ -73,7 +76,7 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/maykbrito.png" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://github.com/maykbrito.png" width="100px;" alt="Photo by Mark Zuckerberg"/><br>
         <sub>
           <b>Mayk Brito</b>
         </sub>
@@ -81,7 +84,7 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/jakeliny.png" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://github.com/jakeliny.png" width="100px;" alt="Photo of Steve Jobs"/><br>
         <sub>
           <b>Jakeliny Gracielly</b>
         </sub>
@@ -90,4 +93,4 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Back to top](#project-name)<br>
