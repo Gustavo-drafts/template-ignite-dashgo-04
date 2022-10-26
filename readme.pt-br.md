@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/gutoo01/template-ignite-dashgo-04/blob/main/readme.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/gutoo01/template-ignite-dashgo-04/blob/main/readme.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/gutoo01/template-ignite-dashgo-04/blob/main/readme.pt-br.md)
 
 
 # **Dash.go**
